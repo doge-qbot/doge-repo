@@ -1,3 +1,5 @@
+欢迎加入开发群：946765409。入群问题请回答你的github账号名。
+
 开发者：
 
 mirai主仓库：https://github.com/mamoe/mirai
